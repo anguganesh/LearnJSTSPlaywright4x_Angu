@@ -1,0 +1,19 @@
+{
+  "name": "learnjstsplaywright4x_angu",
+  "version": "1.0.0",
+  "private": true,
+  "description": "JavaScript and Playwright learning exercises",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "exercise": "node"
+  },
+  "keywords": [
+    "javascript",
+    "playwright",
+    "learning",
+    "automation"
+  ],
+  "type": "commonjs",
+  "license": "MIT"
+}
