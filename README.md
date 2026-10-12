@@ -43,6 +43,8 @@ This repository includes:
 
 This workspace has been initialized as a Node.js project so the JavaScript exercises can be executed easily from the terminal.
 
+The repository is intended for hands-on learning, practice assignments, and progressively building JavaScript and automation skills.
+
 ## License
 
 This project is intended for learning and practice purposes." 
